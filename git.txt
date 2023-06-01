@@ -1,0 +1,7 @@
+echo "# LittleLemonDB" >> README.md
+git init
+git add readme.md
+git commit -m "adding project readme" 
+git remote add origin https://github.com/tvcertified/db-capstone-project.git
+git remote -v
+git push -u origin master
